@@ -37,4 +37,4 @@ Ochs J, Biermann F, Piotrowski T, Erkens F, Nießing B, Herbst L, König N, Schm
 
 ---
 
-*Processed by **opencode** (opencode-go) on 2026-06-20*
+*Processed by **Qwen3.6 Plus** (opencode-go) on 2026-06-20*

@@ -39,4 +39,4 @@ Kane KI, Moreno EL, Hachi S, Walter M, Jarazo J, Oliveira MAP, Hankemeier T, Vul
 
 ---
 
-*Processed by **opencode** (opencode-go) on 2026-06-20*
+*Processed by **Qwen3.6 Plus** (opencode-go) on 2026-06-20*

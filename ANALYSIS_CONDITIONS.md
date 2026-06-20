@@ -36,7 +36,7 @@
 - **저장 위치**: `ko/articles/`, `en/articles/`
 - **파일명**: `FirstAuthorYYYY_Journal.md`
 - **Result 섹션**: 자동화 최적화 파라미터와 구체적 수치 포함
-- **메타데이터**: 파일 하단에 `*Processed by **opencode** (opencode-go) on 2026-06-20*` 기록
+- **메타데이터**: 파일 하단에 `*Processed by **Qwen3.6 Plus** (opencode-go) on 2026-06-20*` 기록
 
 ## 생성된 MD 노트 (20개 논문, 40개 파일)
 | 논문 | DOI |

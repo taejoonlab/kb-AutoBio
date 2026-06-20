@@ -37,4 +37,4 @@ Gustafson KT, Huynh KT, Heineck D, Bueno J, Modestino A, Kim S, Gower A, Armstro
 
 ---
 
-*Processed by **opencode** (opencode-go) on 2026-06-20*
+*Processed by **Qwen3.6 Plus** (opencode-go) on 2026-06-20*

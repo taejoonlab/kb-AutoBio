@@ -65,7 +65,7 @@ PDF를 **리뷰 논문**과 **원저 연구**로 분류한다.
 
 ---
 
-*Processed by **{LLM_MODEL}** ({TOOL}) on {YYYY-MM-DD}*
+*Processed by **Qwen3.6 Plus** (opencode-go) on {YYYY-MM-DD}*
 ```
 
 ### Step 3: Commit
